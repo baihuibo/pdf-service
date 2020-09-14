@@ -1,6 +1,6 @@
 {
     "name": "@5i5j/proxy-pdf-service",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "提供代理，使 pdf-service 可以使用本地浏览器来进行处理",
     "main": "index.js",
     "bin": "index.js",
@@ -22,6 +22,6 @@
         "koa2-cors": "^2.0.6",
         "minimist": "^1.2.5",
         "prompts": "^2.3.2",
-        "puppeteer-core": "^5.2.1"
+        "puppeteer-core": "5.3.0"
     }
 }
